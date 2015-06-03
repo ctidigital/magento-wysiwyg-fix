@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <models>
+            <cti_cms>
+                <class>Cti_Cms_Model</class>
+            </cti_cms>
+            <cms>
+                <rewrite>
+                    <wysiwyg_images_storage>Cti_Cms_Model_Wysiwyg_Images_Storage</wysiwyg_images_storage>
+                </rewrite>
+            </cms>
+        </models>
+        <helpers>
+            <cti_cms>
+                <class>Cti_Cms_Helper</class>
+            </cti_cms>
+            <cms>
+                <rewrite>
+                    <wysiwyg_images>Cti_Cms_Helper_Wysiwyg_Images</wysiwyg_images>
+                </rewrite>
+            </cms>
+        </helpers>
+    </global>
+</config>
