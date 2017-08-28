@@ -1,0 +1,15 @@
+{
+    "name": "ctidigital/magento-wysiwyg-fix",
+    "type": "magento-module",
+    "description": "Wysiwyg Thumbnail Generation Fix module",
+    "homepage": "https://www.ctidigital.com/blog/fixing-magento-improving-performance-of-the-wysiwyg-editor/",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors": [
+        {
+            "name": "ctidigital",
+            "role": "Author/Maintainer"
+        }
+    ]
+}
